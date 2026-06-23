@@ -44,3 +44,4 @@ tk240329, Hello IPUT!
 iput2024-kawata, ２回目
 tk240030, systemctl destroy firewalld
 IPUT-suzuki, オレは高校生シェル芸人sudo新一
+IPUT2024-kinoshita わたしは幼馴染で同級生のmore利蘭です。
