@@ -1,3 +1,3 @@
 Work07 conflict demo by portichihara
-line 1: original text
+line 1: develop branch edit by portichihara
 line 2: common text
