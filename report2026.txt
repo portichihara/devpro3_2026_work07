@@ -43,4 +43,4 @@ nekozuki プルリクは大事ですよね
 tk240329, Hello IPUT!
 iput2024-kawata, ２回目
 tk240030, systemctl destroy firewalld
-
+IPUT-suzuki, オレは高校生シェル芸人sudo新一
